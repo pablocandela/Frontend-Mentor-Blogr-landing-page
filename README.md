@@ -2,7 +2,7 @@
 
 ![Design preview for the Blogr landing page coding challenge](./design/desktop-preview.jpg)
 
-##Demo: https://pablocandela.github.io/Frontend-Mentor-Blogr-landing-page/
+## Demo: https://pablocandela.github.io/Frontend-Mentor-Blogr-landing-page/
 
 ## Welcome! 👋
 
