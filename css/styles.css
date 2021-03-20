@@ -386,6 +386,7 @@
     .second-info div {
         max-width: 450px;
     }
+
 }
 
 @media (max-width: 989px) {
@@ -435,7 +436,7 @@
         
     }
     .third-image {
-        margin-top: 50px;
+        margin-top: 70px;
         background: url(../images/illustration-laptop-mobile.svg) no-repeat 50% 0%/ 120%;
         height: 84vw;
         
@@ -454,7 +455,7 @@
         width: 100%;
         text-align: center;
         margin-bottom: 80px;
-        margin-top: 130px;
+        margin-top: 75px;
     }
 
     .first-info {
@@ -462,13 +463,18 @@
     }
 
     .first-image {
-        margin-top: 0px;
+        margin-top: -10px;
+        margin-bottom: 30px;
         background: url(../images/illustration-editor-mobile.svg) no-repeat 50% 0%/ 95%;
         height: 84vw;  
     }
 
     .first-info {
         margin-bottom: 250px;
+    }
+
+    .second-section {
+        margin-top: 280px;
     }
 
 }
